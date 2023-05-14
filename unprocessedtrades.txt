@@ -1,0 +1,4 @@
+select * from table where tradenumber ="23654";
+
+update set tradenumber ="23456" where tradeid ="y";
+
